@@ -1,0 +1,2 @@
+Esto es una prueba de GIT
+Gracias  por su clase de git
